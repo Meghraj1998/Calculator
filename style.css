@@ -17,7 +17,7 @@
 #display-container{
 
   border: 1px solid green;
-  width: 70%;
+  width: 75%;
   height: 140px;
   margin-left: auto;
   margin-right: auto;
@@ -54,11 +54,11 @@
  
 
   display: flex;
-  padding: 2%;
+  padding: 8%;
 
    border: skyblue 1px solid;
   flex-direction: column;
-  width: 26%;
+  width: 62%;
    
   top: 20px;
   margin-top: -20px;
